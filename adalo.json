@@ -1,0 +1,12 @@
+{
+  "displayName": "My Component",
+  "components": [
+    {
+      "name": "MyComponent",
+      "manifest": "./src/components/MyComponent/manifest.json"
+    }
+  ],
+  "author": "",
+  "description": "",
+  "logo": "./example-logo.png"
+}
